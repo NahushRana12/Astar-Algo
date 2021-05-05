@@ -1,6 +1,8 @@
  /* developed by Nahushkumar Nitinbhai Rana
     Including A* algorthim with 2 heristics and 2 Types of display Mode.*/
-    
+   
+Detail about problem is given in problem statement file.
+
 Requirement = Must have this both header file in include directory.
 	#include <cstdlib>
 	#include <bits/stdc++.h>
